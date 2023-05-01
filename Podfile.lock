@@ -1,0 +1,26 @@
+PODS:
+  - Cosmos (23.0.0)
+  - SDWebImage (5.15.6):
+    - SDWebImage/Core (= 5.15.6)
+  - SDWebImage/Core (5.15.6)
+  - SwiftLint (0.50.3)
+
+DEPENDENCIES:
+  - Cosmos
+  - SDWebImage
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - SDWebImage
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  SDWebImage: d47d81bea8a77187896b620dc79c3c528e8906b9
+  SwiftLint: 77f7cb2b9bb81ab4a12fcc86448ba3f11afa50c6
+
+PODFILE CHECKSUM: b19bf671ccf921becb2e139a2438baac2fa4f34a
+
+COCOAPODS: 1.12.0

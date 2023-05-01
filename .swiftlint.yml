@@ -1,0 +1,8 @@
+cyclomatic_complexity:
+- 12 # warning
+- 20 # error 
+excluded:
+- Pods
+- Cosmos/
+- SDWebImage/
+- SkeletonView/

@@ -1,0 +1,6 @@
+framework module Pods_ViewingMovieInformation {
+  umbrella header "Pods-ViewingMovieInformation-umbrella.h"
+
+  export *
+  module * { export * }
+}
